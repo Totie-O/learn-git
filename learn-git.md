@@ -7,3 +7,5 @@ git config --global core.editor "code -w"
 git config --list  
 
 code .\.gitconfig  
+
+这是一次简单的小测试
